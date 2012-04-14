@@ -1,4 +1,3 @@
-
 PopTag
 ======
 
@@ -41,6 +40,6 @@ and you will see the PopTag home page.
 
 # Release Notes
 ### version 0.0.1
--- basic infrastructure built, a few simple commands implemented
--- full source contains everything necessary to run on heroku immediately
--- falls back to Google search
+* basic infrastructure built, a few simple commands implemented
+* full source contains everything necessary to run on heroku immediately
+* falls back to Google search
