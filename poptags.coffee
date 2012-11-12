@@ -90,7 +90,8 @@ tagmap =
   ### good way to clean your eyes after a nasty page ###
   saveme:(params, response)->
     response.writeHead 302,
-      Location: "https://www.kidbleach.com/"
+      Location: "http://kidbleach.com/"
+    response.end()
 
   ### searches youtube ###
   yt:(params, response)->
